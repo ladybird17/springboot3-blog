@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
  * <p>
  * date : 2023-06-13
  */
-@EnableJpaAuditing
+@EnableJpaAuditing //created_at, updated_at 자동 업데이트
 @SpringBootApplication
 public class Springboot3BlogAppication {
   public static void main(String[] args) {
