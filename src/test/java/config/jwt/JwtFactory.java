@@ -1,4 +1,4 @@
-package me.yejin.springboot3blog.controller.config.jwt;
+package config.jwt;
 
 import static java.util.Collections.emptyMap;
 

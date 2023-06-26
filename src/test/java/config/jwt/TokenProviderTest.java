@@ -1,4 +1,4 @@
-package me.yejin.springboot3blog.controller.config.jwt;
+package config.jwt;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
