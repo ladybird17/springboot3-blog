@@ -1,4 +1,4 @@
-package config.jwt;
+package me.yejin.springboot3blog.config.jwt;
 
 import static java.util.Collections.emptyMap;
 
@@ -10,7 +10,6 @@ import java.util.Date;
 import java.util.Map;
 import lombok.Builder;
 import lombok.Getter;
-import me.yejin.springboot3blog.config.jwt.JwtProperties;
 
 /**
  * author : yjseo

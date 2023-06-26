@@ -1,4 +1,4 @@
-package config.jwt;
+package me.yejin.springboot3blog.config.jwt;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -6,8 +6,6 @@ import io.jsonwebtoken.Jwts;
 import java.time.Duration;
 import java.util.Date;
 import java.util.Map;
-import me.yejin.springboot3blog.config.jwt.JwtProperties;
-import me.yejin.springboot3blog.config.jwt.TokenProvider;
 import me.yejin.springboot3blog.domain.User;
 import me.yejin.springboot3blog.repository.UserRepository;
 import org.junit.jupiter.api.DisplayName;
