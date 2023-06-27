@@ -1,7 +1,6 @@
 package me.yejin.springboot3blog.controller;
 
 import lombok.RequiredArgsConstructor;
-import me.yejin.springboot3blog.config.jwt.TokenProvider;
 import me.yejin.springboot3blog.dto.CreateAccessTokenRequest;
 import me.yejin.springboot3blog.dto.CreateAccessTokenResponse;
 import me.yejin.springboot3blog.service.TokenService;
